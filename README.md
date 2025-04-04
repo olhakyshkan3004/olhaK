@@ -5,6 +5,8 @@
 📊 This passion led me to dive into the world of data analytics, where I’m now blending my analytical mindset with my hospitality expertise. I enjoy uncovering patterns, optimizing processes, and transforming raw data into meaningful insights that drive smarter business decisions.
 
 💡 Whether it's creating a memorable event or extracting valuable insights from data, I bring the same level of dedication, problem-solving, and customer-centric thinking. Let’s connect and explore how hospitality and data analytics can work together to create remarkable results!
+
+💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
